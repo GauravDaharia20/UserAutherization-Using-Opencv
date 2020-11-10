@@ -9,3 +9,4 @@ In this project I have used opencv and pyzbar(Python Liberary for decoding QR/Ba
   3. Then used some pyzbar for decoding the QR code.
   4. After this I have small concept of DBMS check
 # Hence you are good to go with Autherization System.
+# For More detail Please have look over the video uploaded in this repository.
